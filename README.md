@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend & backend.
 - 🌱 I’m currently learning HTML, JavaScript
 - 💞️ I’m looking to collaborate on other spanish students.
-- 📫 How to reach me luisitorespawn@gmail.com
+- 📫 How to reach me thevampi.dev@gmail.com
 
 <!---
 TheVampi/TheVampi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
